@@ -1,0 +1,12 @@
+D:\2020613080.FeatureMatching\src\Ahlem.Fahem.FeatureMatching\bin\Debug\net6.0\Ahlem.Fahem.FeatureMatching.deps.json
+D:\2020613080.FeatureMatching\src\Ahlem.Fahem.FeatureMatching\bin\Debug\net6.0\Ahlem.Fahem.FeatureMatching.dll
+D:\2020613080.FeatureMatching\src\Ahlem.Fahem.FeatureMatching\bin\Debug\net6.0\ref\Ahlem.Fahem.FeatureMatching.dll
+D:\2020613080.FeatureMatching\src\Ahlem.Fahem.FeatureMatching\bin\Debug\net6.0\Ahlem.Fahem.FeatureMatching.pdb
+D:\2020613080.FeatureMatching\src\Ahlem.Fahem.FeatureMatching\obj\Debug\net6.0\Ahlem.Fahem.FeatureMatching.csproj.AssemblyReference.cache
+D:\2020613080.FeatureMatching\src\Ahlem.Fahem.FeatureMatching\obj\Debug\net6.0\Ahlem.Fahem.FeatureMatching.GeneratedMSBuildEditorConfig.editorconfig
+D:\2020613080.FeatureMatching\src\Ahlem.Fahem.FeatureMatching\obj\Debug\net6.0\Ahlem.Fahem.FeatureMatching.AssemblyInfoInputs.cache
+D:\2020613080.FeatureMatching\src\Ahlem.Fahem.FeatureMatching\obj\Debug\net6.0\Ahlem.Fahem.FeatureMatching.AssemblyInfo.cs
+D:\2020613080.FeatureMatching\src\Ahlem.Fahem.FeatureMatching\obj\Debug\net6.0\Ahlem.Fahem.FeatureMatching.csproj.CoreCompileInputs.cache
+D:\2020613080.FeatureMatching\src\Ahlem.Fahem.FeatureMatching\obj\Debug\net6.0\Ahlem.Fahem.FeatureMatching.dll
+D:\2020613080.FeatureMatching\src\Ahlem.Fahem.FeatureMatching\obj\Debug\net6.0\ref\Ahlem.Fahem.FeatureMatching.dll
+D:\2020613080.FeatureMatching\src\Ahlem.Fahem.FeatureMatching\obj\Debug\net6.0\Ahlem.Fahem.FeatureMatching.pdb

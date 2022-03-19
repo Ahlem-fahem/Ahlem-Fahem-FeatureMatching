@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vLZht5uNGpBzl22aUzoHy7JrJc1f2KrflBReqw5uc+tOKqfW9t2HVxr6JwvoCK8Kcr/Ic5P9EodSUDV7WfLWTQ==",
+  "success": true,
+  "projectFilePath": "D:\\2020613080.FeatureMatching\\src\\Ahlem.Fahem.FeatureMatching.Console\\Ahlem.Fahem.FeatureMatching.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\opencvsharp4\\4.5.5.20211231\\opencvsharp4.4.5.5.20211231.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\opencvsharp4.runtime.win\\4.5.5.20211231\\opencvsharp4.runtime.win.4.5.5.20211231.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
