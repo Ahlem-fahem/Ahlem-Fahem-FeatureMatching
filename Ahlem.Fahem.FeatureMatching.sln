@@ -1,8 +1,5 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30114.105
-MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ahlem.Fahem.FeatureMatching.Console", "src\Ahlem.Fahem.FeatureMatching.Console\Ahlem.Fahem.FeatureMatching.Console.csproj", "{557EE228-D05F-447E-B188-7E36C40F6595}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ahlem.Fahem.FeatureMatching", "src\Ahlem.Fahem.FeatureMatching\Ahlem.Fahem.FeatureMatching.csproj", "{5565CFB1-38C5-4A60-A457-7B3A95DA81C7}"
@@ -15,9 +12,6 @@ Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{557EE228-D05F-447E-B188-7E36C40F6595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -40,12 +34,5 @@ Global
 		{6EE8F3BD-A18B-40EF-834B-646127A9A9D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EE8F3BD-A18B-40EF-834B-646127A9A9D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EE8F3BD-A18B-40EF-834B-646127A9A9D4}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{557EE228-D05F-447E-B188-7E36C40F6595} = {91C5AB9D-B2FD-486C-AAA7-90EBE6BF27AB}
-		{5565CFB1-38C5-4A60-A457-7B3A95DA81C7} = {91C5AB9D-B2FD-486C-AAA7-90EBE6BF27AB}
-		{5F9AAB69-89D4-4B6B-90DB-4C50A5DE3A2E} = {91C5AB9D-B2FD-486C-AAA7-90EBE6BF27AB}
-		{403313E3-AF29-42D4-B0A1-C4D6FFDC7605} = {6B3B9517-59AC-4DFB-BD3B-C240C6447603}
-		{6EE8F3BD-A18B-40EF-834B-646127A9A9D4} = {9AEAAAD1-FDFF-436B-89D4-877BBDB498EF}
 	EndGlobalSection
 EndGlobal
